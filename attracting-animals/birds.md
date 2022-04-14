@@ -2,6 +2,7 @@
 title: "Птицы"
 parent: "Привлечение животных в сад"
 nav_order: 1
+permalink: /attracting-animals/birds
 ---
 
 # Зачем оно мне нужно?
