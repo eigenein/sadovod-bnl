@@ -23,7 +23,7 @@ permalink: /plant-care/pest-control/insects
 - Следить, чтобы спрей не разлетался на цветы и пчел
 - Читать инструкцию
 
-Примеры конкретных средств:
+### Примеры конкретных средств
 
 - [Bio Tegen Hardnekkige Insecten polysect spray](https://www.pokon.nl/producten/item/pokon-tegen-hardnekkige-insecten-polysect-spray-bio/)
 - [ECOstyle Ongedierte & wespenspray](https://www.ecostyle.nl/c/problemen-en-plagen/ongedierte-wespenspray) – для домашнего использования против чешуйниц и прочей радости. Если не боитесь пауков, то постарайтесь не распылять на них и на паутину. Пауки в этой войне – ваши союзники.
@@ -37,7 +37,8 @@ permalink: /plant-care/pest-control/insects
 
 Ключевые слова в составе: **koolzaadolie**, **kaliumzouten van vetzuren**.
 
-Примеры конкретных средств:
+### Примеры конкретных средств
+
 - [Bio Tegen Insecten Polysect GYO Spray](https://www.pokon.nl/producten/item/pokon-tegen-insecten-spray-bio-800ml/) (и его [концентрат](https://www.pokon.nl/producten/item/pokon-tegen-insecten-concentraat-bio-200ml/))
 
 # Вспомогательные средства
