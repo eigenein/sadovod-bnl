@@ -1,7 +1,7 @@
 ---
-title: "Муравьи"
-parent: "Борьба с вредителями"
-nav_order: 10
+title: Муравьи
+parent: Борьба с вредителями
+nav_order: 2
 permalink: /plant-care/pest-control/ants
 ---
 
