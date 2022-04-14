@@ -1,6 +1,7 @@
 ---
 title: "Полезные приложения"
 nav_order: 4
+permalink: /apps
 ---
 
 ## Android
