@@ -8,7 +8,7 @@ nav_order: 1
 
 Если купить специализированное удобрение – это слишком просто, а душа требует страданий, то можно замешать NPK-удобрение из компонентов: [азот](https://www.pokon.nl/producten/item/stikstofmest-2kg/), [фосфор](https://www.pokon.nl/producten/item/fosfaatmest-2kg/), [калий](https://www.pokon.nl/producten/item/kalimest-2kg/).
 
-## ☕ Отдельно про кофейную гущу
+# ☕ Отдельно про кофейную гущу
 
 - **Кофеин связывает азот в почве**, что [приводит к уменьшению скорости роста растений](https://www.sciencedirect.com/science/article/abs/pii/S1618866716300103). Кофеин также [уменьшает размер проростков](https://www.pubhort.org/ipps/60/120.htm).
 - Кофейная гуща **не повышает кислотность почвы**, если вы на это надеялись. [Кислотность кофейной гущи близка к нейтральной](https://extension.oregonstate.edu/gardening/techniques/coffee-grounds-composting). Вся кислота осталась в вашей чашке кофе.
