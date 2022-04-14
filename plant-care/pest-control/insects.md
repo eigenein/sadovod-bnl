@@ -1,6 +1,7 @@
 ---
 title: "Тля, минёры, паутинные клещи, гусеницы, чешуйницы, жуки"
 parent: "Борьба с вредителями"
+grand_parent: "Уход за растениями"
 nav_order: 1
 permalink: /plant-care/pest-control/insects
 ---
