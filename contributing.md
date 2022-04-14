@@ -6,7 +6,7 @@ permalink: /contributing
 
 # Как предлагать правки
 
-- Если вы по профессии – разработчик, то все стандартно через pull request.
+- Если вы по профессии – разработчик, то создание pull request-а
 - Другой вариант: [открыть обсуждение](https://github.com/eigenein/sadovod-bnl/discussions) здесь, на GitHub
 - Иначе, пинганите @eigenein в чате
 
