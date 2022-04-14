@@ -10,15 +10,6 @@ permalink: /plant-care/pest-control/insects
 
 **Обратите внимание, что одни и те же бренды могут выпускать средства с разными действующими веществами. Читайте состав на упаковке или на сайте (ищите «werkzamestof»).**
 
-## На основе мыла и растительного масла
-
-Дешевые, иногда помогают, иногда – нет. От тли и паутинного клеща – чаще нет.
-
-Ключевые слова в составе: **koolzaadolie**, **kaliumzouten van vetzuren**.
-
-Примеры конкретных средств:
-- [Bio Tegen Insecten Polysect GYO Spray](https://www.pokon.nl/producten/item/pokon-tegen-insecten-spray-bio-800ml/) (и его [концентрат](https://www.pokon.nl/producten/item/pokon-tegen-insecten-concentraat-bio-200ml/))
-
 ## На основе пиретринов и пиретроидов
 
 Ключевые слова в составе: **pyrethrinen**, **deltamethrin**.
@@ -39,6 +30,15 @@ permalink: /plant-care/pest-control/insects
 
 Эти средства также существуют в виде концентратов (получится дешевле в расчете на литр):
 - [Bio Tegen Hardnekkige Insecten polysect concentraat 175ml](https://www.pokon.nl/producten/item/pokon-tegen-hardnekkige-insecten-polysect-concentraat-bio/)
+
+## На основе мыла и растительного масла
+
+Дешевые, иногда помогают, иногда – нет. От тли и паутинного клеща – чаще нет.
+
+Ключевые слова в составе: **koolzaadolie**, **kaliumzouten van vetzuren**.
+
+Примеры конкретных средств:
+- [Bio Tegen Insecten Polysect GYO Spray](https://www.pokon.nl/producten/item/pokon-tegen-insecten-spray-bio-800ml/) (и его [концентрат](https://www.pokon.nl/producten/item/pokon-tegen-insecten-concentraat-bio-200ml/))
 
 # Вспомогательные средства
 
