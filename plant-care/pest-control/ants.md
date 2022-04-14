@@ -1,6 +1,6 @@
 ---
 title: "Муравьи"
-parent: "Уход за растениями"
+parent: "Борьба с вредителями"
 nav_order: 2
 permalink: /plant-care/pest-control/ants
 layout: default
