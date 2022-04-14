@@ -2,6 +2,7 @@
 title: "Борьба с вредителями"
 parent: "Уход за растениями"
 nav_order: 2
+permalink: /plant-care/pest-control
 ---
 
 # 🪲 Тля, [минёры](https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D1%91%D1%80%D1%8B), паутинный клещ, гусеницы, [чешуйницы](https://nl.wikipedia.org/wiki/Zilvervisje), жуки
