@@ -2,6 +2,7 @@
 title: "Ежи"
 parent: "Привлечение животных в сад"
 nav_order: 2
+permalink: /attracting-animals/hedgehogs
 ---
 
 **[Ежам нельзя молоко](https://www.egelbescherming.nl/de-egel/egels-in-uw-tuin/), они не переносят лактозу.**
