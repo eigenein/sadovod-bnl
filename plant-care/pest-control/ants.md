@@ -1,6 +1,6 @@
 ---
 title: Муравьи
-parent: Борьба с вредителями
+parent: /plant-care/pest-control
 nav_order: 2
 permalink: /plant-care/pest-control/ants
 ---
