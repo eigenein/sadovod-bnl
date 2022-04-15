@@ -10,3 +10,6 @@ search:
   button: false
 
 ga_tracking: G-GKFKT99WR6
+
+plugins:
+  - jekyll-seo-tag
