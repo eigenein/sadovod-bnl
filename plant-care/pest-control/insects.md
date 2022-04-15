@@ -38,6 +38,7 @@ permalink: /plant-care/pest-control/insects
 - [Bio Tegen Hardnekkige Insecten polysect concentraat 175ml](https://www.pokon.nl/producten/item/pokon-tegen-hardnekkige-insecten-polysect-concentraat-bio/)
 
 #### Непрошенный совет
+{: .no_toc }
 
 В кризисной ситуации, когда вредителей очень много, а растению нужно срочно помочь – сначала смойте и сбейте обычной водой как можно больше насекомых с растения, а потом опрыскивайте.
 
