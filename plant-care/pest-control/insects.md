@@ -35,7 +35,7 @@ permalink: /plant-care/pest-control/insects
 ### Примеры конкретных средств
 
 - [Bio Tegen Hardnekkige Insecten polysect spray](https://www.pokon.nl/producten/item/pokon-tegen-hardnekkige-insecten-polysect-spray-bio/)
-- [ECOstyle Ongedierte & wespenspray](https://www.ecostyle.nl/c/problemen-en-plagen/ongedierte-wespenspray) – для домашнего использования против чешуйниц и прочей радости. Если не боитесь пауков, то постарайтесь не распылять на них и на паутину. Пауки в этой войне – ваши союзники.
+- [ECOstyle Ongedierte & wespenspray](https://www.ecostyle.nl/c/problemen-en-plagen/ongedierte-wespenspray) – для домашнего использования против чешуйниц и прочей радости. Если не боитесь пауков, то постарайтесь не распылять на них и на паутину. [Пауки в этой войне – ваши союзники](heading-house-spiders).
 
 Эти средства также существуют в виде концентратов (получится дешевле в расчете на литр):
 - [Bio Tegen Hardnekkige Insecten polysect concentraat 175ml](https://www.pokon.nl/producten/item/pokon-tegen-hardnekkige-insecten-polysect-concentraat-bio/)
@@ -94,8 +94,9 @@ permalink: /plant-care/pest-control/insects
 Смотрите [отдельный раздел](/attracting-animals/birds) про привлечение.
 
 ## Домашние пауки
+<a name="heading-house-spiders"></a>
 
-Домашние пауки съедают кучу чешуйниц в ваших домах. Если вы позволите паукам мирно сидеть в своих углах, то насекомых в доме станет значительно меньше. Останется только убирать то, во что превращаются их жертвы.
+Домашние пауки съедают кучу чешуйниц и залетных насекомых в ваших домах. Если вы позволите паукам мирно сидеть и размножаться в своих углах, то насекомых в доме станет значительно меньше. Останется только убирать то, во что превращаются их жертвы.
 
 ---
 
