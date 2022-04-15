@@ -6,9 +6,9 @@ permalink: /contributing
 
 # Как предлагать правки
 
-- Если вы по профессии – разработчик, то создание [pull request](https://github.com/eigenein/sadovod-bnl/pulls)-а
-- Другой вариант: [открыть обсуждение на GitHub](https://github.com/eigenein/sadovod-bnl/discussions)
-- Иначе, упомяните [@eigenein](https://t.me/telegram) в чате или напишите напрямую
+- Создайть [pull request на GitHub](https://github.com/eigenein/sadovod-bnl/pulls)
+- [Открыть обсуждение на GitHub](https://github.com/eigenein/sadovod-bnl/discussions)
+- Писать в комментарии под этой страницей
 
 # Источники
 
@@ -25,3 +25,9 @@ permalink: /contributing
 - [Опыт всех своих знакомых](https://ru.rationalwiki.org/wiki/Argumentum_ad_populum)
 - [Личный опыт знакомого садовода](https://ru.rationalwiki.org/wiki/%D0%90%D0%BF%D0%B5%D0%BB%D0%BB%D1%8F%D1%86%D0%B8%D1%8F_%D0%BA_%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D1%83), который всю жизнь удобряет золой и заканчивать не собирается. А еще он курит по пачке сигарет в день и дожил до 90 лет.
 - [Опросники в социальных сетях](https://scanmarket.ru/blog/reprezentativnost-vyborki)
+
+---
+
+# Предложения
+
+{% include telegram.html %}
