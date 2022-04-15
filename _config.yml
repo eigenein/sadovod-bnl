@@ -5,9 +5,7 @@ remote_theme: "just-the-docs/just-the-docs"
 
 footer_content: "<a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ru\"><img alt=\"Лицензия Creative Commons\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png\" /></a><br />Это произведение доступно по <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ru\">лицензии Creative Commons «Attribution-NonCommercial-NoDerivatives» («Атрибуция-Некоммерчески-БезПроизводных») 4.0 Всемирная</a>."
 
-search_enabled: false
-search:
-  button: false
+search_enabled: false # doesn't work in Russian at the moment
 
 ga_tracking: G-GKFKT99WR6
 
@@ -17,3 +15,9 @@ plugins:
 aux_links:
   "Чат в Telegram":
     - "https://t.me/gardening_benelux"
+
+gh_edit_link: true
+gh_edit_link_text: "Редактировать эту страницу на GitHub."
+gh_edit_repository: "https://github.com/eigenein/sadovod-bnl"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
