@@ -8,7 +8,7 @@ permalink: /contributing
 
 - Если вы по профессии – разработчик, то создание pull request-а
 - Другой вариант: [открыть обсуждение на GitHub](https://github.com/eigenein/sadovod-bnl/discussions)
-- Иначе, пинганите @eigenein в чате
+- Иначе, упомяните [@eigenein](https://t.me/telegram) в чате или напишите напрямую
 
 # Источники
 
