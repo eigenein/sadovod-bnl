@@ -18,9 +18,11 @@ permalink: /plant-care/pest-control/insects
 
 ## Спреи на основе пиретринов и пиретроидов
 
-Pyrethrinen {: .label }
+Pyrethrinen
+{: .label }
 
-Deltamethrin {: .label }
+Deltamethrin
+{: .label }
 
 Ключевые слова в составе: **pyrethrinen**, **deltamethrin**.
 
