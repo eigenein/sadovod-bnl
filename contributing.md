@@ -6,9 +6,9 @@ permalink: /contributing
 
 # Как предлагать правки
 
-- Создайть [pull request на GitHub](https://github.com/eigenein/sadovod-bnl/pulls)
+- Создать [pull request на GitHub](https://github.com/eigenein/sadovod-bnl/pulls)
 - [Открыть обсуждение на GitHub](https://github.com/eigenein/sadovod-bnl/discussions)
-- Писать в комментарии под этой страницей
+- Написать комментарий под этой страницей
 
 # Источники
 
@@ -27,7 +27,5 @@ permalink: /contributing
 - [Опросники в социальных сетях](https://scanmarket.ru/blog/reprezentativnost-vyborki)
 
 ---
-
-# Предложения
 
 {% include telegram.html %}
