@@ -13,3 +13,7 @@ ga_tracking: G-GKFKT99WR6
 
 plugins:
   - jekyll-seo-tag
+
+aux_links:
+  "Чат в Telegram":
+    - "https://t.me/gardening_benelux"
