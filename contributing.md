@@ -18,7 +18,7 @@ permalink: /contributing
 
 - **Исследования** всегда на первом месте
 - [Milieu Centraal](https://www.milieucentraal.nl/)
-- Местные организации по охране природы, такие как [Vogelbescherming](https://www.vogelbescherming.nl/), [Egelbescherming](https://www.egelbescherming.nl/). **С осторожностью**: изредка, но бывает, что они противоречат исследованиям (например, Egelbescherming утверждает, что гранулы от слизней смертельны для ежей – это, по имеющимся данным, не так).
+- Местные организации по охране природы, такие как [Vogelbescherming](https://www.vogelbescherming.nl/), [Egelbescherming](https://www.egelbescherming.nl/). **С осторожностью**: изредка, но бывает, что они противоречат исследованиям (например, Egelbescherming утверждает, что гранулы от слизней смертельны для ежей – но это верно не для всех видов гранул).
 
 ## Примеры плохих источников
 - [Личный опыт](https://vc.ru/flood/34733-kak-pomogaet-i-vredit-logicheskaya-oshibka-sluchay-iz-zhizni)
