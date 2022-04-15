@@ -15,6 +15,8 @@ plugins:
 aux_links:
   "Чат в Telegram":
     - "https://t.me/gardening_benelux"
+  "Садовые растения":
+    - "https://docs.google.com/spreadsheets/d/1Kb5VpLNyeKjFGBcfFL9tN5z-cKTSS4mMP1GA9QjMOzY/edit?usp=sharing"
 
 gh_edit_link: true
 gh_edit_link_text: "Редактировать эту страницу на GitHub."
