@@ -7,7 +7,7 @@ permalink: /plant-care/pest-control/insects
 ---
 
 - TOC
-  {:toc}
+{:toc}
 
 # Специализированные средства
 
