@@ -6,7 +6,8 @@ nav_order: 1
 permalink: /plant-care/pest-control/insects
 ---
 
-{:toc}
+- TOC
+  {:toc}
 
 # Специализированные средства
 
