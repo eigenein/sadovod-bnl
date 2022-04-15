@@ -6,7 +6,7 @@ permalink: /sponsor
 
 Если вы хотите скинуться на поддержку сайта или просто угостить авторов за сбор информации – это можно сделать здесь:
 
-| Кому | Капсула Nepresso € 0,50 | Месяц оплаты домена € 0,80 |
+| Кому    | Капсула Nepresso € 0,50    | Месяц оплаты домена € 0,80      |
 | --- | --- |
 | [@eigenein](https://t.me/eigenein) | <span class="fs-5">[bunq](https://bunq.me/eigenein/0.50){: .btn .btn-green }</span> <span class="fs-5">[PayPal](https://paypal.me/eigenein/0.50){: .btn .btn-blue }</span> | <span class="fs-5">[bunq](https://bunq.me/eigenein/0.80){: .btn .btn-green }</span> <span class="fs-5">[PayPal](https://paypal.me/eigenein/0.80){: .btn .btn-blue }</span> |
 
