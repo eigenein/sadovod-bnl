@@ -36,7 +36,7 @@ grand_parent: "Уход за растениями"
 
 Например, Pokon прямым текстом указывает, что их продукт [безопасен для животных, которые могут съесть отправленных улиток](https://www.pokon.nl/producten/item/pokon-tegen-slakken-korrels-450-gr/#:~:text=Huisdieren%2C%20vogels%20en%20egels%20ondervinden%20geen%20schade%20van%20het%20eten%20van%20deze%20dode%20slakken.).
 
-А вот Ecostyle только озабочен «уважением к окружающей среде», и [предупреждают не загрязнять воду упаковкой или содержимым](https://ecostyle.nl/product/escar-go?size=200-g#:~:text=SP1%20Zorg%20ervoor%20dat%20u%20met%20het%20product%20of%20zijn%20verpakking%20geen%20water%20verontreinigt.), что может намекать на небезопасные вспомогательные вещества (но не факт).
+А вот Ecostyle только озабочен «уважением к окружающей среде», и [предупреждает не загрязнять воду упаковкой или содержимым](https://ecostyle.nl/product/escar-go?size=200-g#:~:text=SP1%20Zorg%20ervoor%20dat%20u%20met%20het%20product%20of%20zijn%20verpakking%20geen%20water%20verontreinigt.), а также указывает на водостойкость гранул, что в целом может намекать на наличие небезопасных вспомогательных веществ (хоть и не факт).
 
 ---
 
