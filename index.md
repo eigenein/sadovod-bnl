@@ -13,4 +13,6 @@ nav_order: 1
 [Написать в чат](https://t.me/gardening_benelux){: .btn .btn-green }
 </span>
 
-А ещё у нас есть [список популярных садовых растений](https://docs.google.com/spreadsheets/d/1Kb5VpLNyeKjFGBcfFL9tN5z-cKTSS4mMP1GA9QjMOzY/edit?usp=sharing).
+<span class="fs-5">
+[Популярные садовые растения](https://docs.google.com/spreadsheets/d/1Kb5VpLNyeKjFGBcfFL9tN5z-cKTSS4mMP1GA9QjMOzY/edit?usp=sharing){: .btn .btn-blue }
+</span>
