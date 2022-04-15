@@ -34,7 +34,7 @@ grand_parent: "Уход за растениями"
 
 Отравляющим может оказаться вспомогательное вещество, чаще всего – [EDTA](https://ru.wikipedia.org/wiki/%D0%AD%D1%82%D0%B8%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%B0%D0%BC%D0%B8%D0%BD%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%83%D0%BA%D1%81%D1%83%D1%81%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0). И хотя производители не обязаны указывать его на упаковке, они все еще обязаны указывать токсичность самого продукта, и поэтому – **читайте упаковку**!
 
-Например, Pokon прямым текстом указывает, что их продукт [безопасен для животных, которые могут съесть отправленных улиток](https://www.pokon.nl/producten/item/pokon-tegen-slakken-korrels-450-gr/#:~:text=Huisdieren%2C%20vogels%20en%20egels%20ondervinden%20geen%20schade%20van%20het%20eten%20van%20deze%20dode%20slakken.).
+Например, Pokon прямым текстом указывает, что их продукт [безопасен для животных, которые могут съесть отравленных улиток](https://www.pokon.nl/producten/item/pokon-tegen-slakken-korrels-450-gr/#:~:text=Huisdieren%2C%20vogels%20en%20egels%20ondervinden%20geen%20schade%20van%20het%20eten%20van%20deze%20dode%20slakken.).
 
 А вот Ecostyle только озабочен «уважением к окружающей среде», и [предупреждает не загрязнять воду упаковкой или содержимым](https://ecostyle.nl/product/escar-go?size=200-g#:~:text=SP1%20Zorg%20ervoor%20dat%20u%20met%20het%20product%20of%20zijn%20verpakking%20geen%20water%20verontreinigt.), а также указывает на водостойкость гранул, что в целом может намекать на наличие небезопасных вспомогательных веществ (хоть и не факт).
 
