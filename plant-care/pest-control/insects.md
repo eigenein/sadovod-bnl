@@ -17,6 +17,10 @@ permalink: /plant-care/pest-control/insects
 
 ## Спреи на основе пиретринов и пиретроидов
 
+Pyrethrinen {: .label }
+
+Deltamethrin {: .label }
+
 Ключевые слова в составе: **pyrethrinen**, **deltamethrin**.
 
 Дороже, но эффективнее своих [мыльно-масляных конкурентов](#heading-soap-sprays).
