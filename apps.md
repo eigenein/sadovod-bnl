@@ -21,4 +21,10 @@ permalink: /apps
 
 ## iOS
 
-TODO
+### Распознавание растений
+
+- [Flora Incognita](https://apps.apple.com/us/app/flora-incognita/id1297860122)
+- [ObsIdentify](https://apps.apple.com/nl/app/obsidentify/id1464543488)
+- [NatureID](http://apps.apple.com/us/app/natureid-plant-identification/id1476047194)
+- [LeafSnap](https://apps.apple.com/us/app/leafsnap-plant-identification/id1487972880)
+- [PictureThis](https://apps.apple.com/app/id1252497129)
