@@ -35,10 +35,12 @@ permalink: /plant-care/pest-control/insects
 ### Примеры конкретных средств
 
 - [Bio Tegen Hardnekkige Insecten polysect spray](https://www.pokon.nl/producten/item/pokon-tegen-hardnekkige-insecten-polysect-spray-bio/)
+- [ECOstyle Promanal-R](https://ecostyle.nl/product/promanal-r-gebruiksklaar-500-ml?size=500-ml)
 - [ECOstyle Ongedierte & wespenspray](https://www.ecostyle.nl/c/problemen-en-plagen/ongedierte-wespenspray) – для домашнего использования против чешуйниц и прочей радости. Если не боитесь пауков, то постарайтесь не распылять на них и на паутину. [Пауки в этой войне – ваши союзники](#heading-house-spiders).
 
 Эти средства также существуют в виде концентратов (получится дешевле в расчете на литр):
 - [Bio Tegen Hardnekkige Insecten polysect concentraat 175ml](https://www.pokon.nl/producten/item/pokon-tegen-hardnekkige-insecten-polysect-concentraat-bio/)
+- [ECOstyle Promanal-R](https://ecostyle.nl/product/promanal?size=50-ml)
 
 #### Непрошенный совет №1
 {: .no_toc }
