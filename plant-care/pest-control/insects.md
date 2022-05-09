@@ -38,7 +38,7 @@ permalink: /plant-care/pest-control/insects
 - [ECOstyle Promanal-R](https://ecostyle.nl/product/promanal-r-gebruiksklaar-500-ml?size=500-ml)
 - [ECOstyle Ongedierte & wespenspray](https://www.ecostyle.nl/c/problemen-en-plagen/ongedierte-wespenspray) – для домашнего использования против чешуйниц и прочей радости. Если не боитесь пауков, то постарайтесь не распылять на них и на паутину. [Пауки в этой войне – ваши союзники](#heading-house-spiders).
 
-Эти средства также существуют в виде концентратов (получится дешевле в расчете на литр):
+Эти средства также существуют в виде **концентратов** (получится дешевле в расчете на литр):
 - [Bio Tegen Hardnekkige Insecten polysect concentraat 175ml](https://www.pokon.nl/producten/item/pokon-tegen-hardnekkige-insecten-polysect-concentraat-bio/)
 - [ECOstyle Promanal-R](https://ecostyle.nl/product/promanal?size=50-ml)
 
@@ -58,6 +58,7 @@ permalink: /plant-care/pest-control/insects
 Не забывайте про повторную обработку. Обычно – через неделю (читайте на упаковке). Иначе, там могут родиться новые особи, которые останутся жить.
 
 #### Для тех, кто боится «химии» и советует «натуральное»
+{: .no_toc }
 
 * Пиретрин (тот, который в этих спреях) – в принципе, естественный компонент астровых цветков. Это все еще «химия», или уже «натуральное» средство?
 * На упаковке обычно написано, можно ли употреблять в пищу обработанные растения. Если можно – значит, это сто раз перепроверили.
