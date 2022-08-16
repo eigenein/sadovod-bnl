@@ -62,19 +62,24 @@ permalink: /plant-care/pest-control/insects
 
 * Пиретрин (тот, который в этих спреях) – в принципе, естественный компонент астровых цветков. Это все еще «химия», или уже «натуральное» средство?
 * На упаковке обычно написано, можно ли употреблять в пищу обработанные растения. Если можно – значит, это сто раз перепроверили.
-* Если вы все еще думаете, что мыло – «натуральнее», то вспомните, что мыло – это соли жирных кислот. Например, [стеарат натрия](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%B0%D1%80%D0%B0%D1%82_%D0%BD%D0%B0%D1%82%D1%80%D0%B8%D1%8F). Ну «химия» же в чистом виде!
+* Если вы все еще думаете, что мыло – «натуральнее», то вспомните, что мыло – это соли жирных кислот. Например, [стеарат натрия](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%B0%D1%80%D0%B0%D1%82_%D0%BD%D0%B0%D1%82%D1%80%D0%B8%D1%8F).
 * Горчица, в принципе, [может быть пестицидом](https://journals.pan.pl/Content/103667/PDF/2_RC2_JPPR_58_2_056_Konecka.pdf). Но вряд ли вы сможете правильно приготовить раствор в домашних условиях.
 
 ## Спреи на основе мыла и растительного масла
 <a name="heading-soap-sprays"></a>
 
-Дешевые, иногда помогают, иногда – нет. От тли и паутинного клеща – чаще нет. Если не помогает, рассмотрите [спреи на основе пиретринов](#heading-pyrethrinen-sprays).
+Дешевые, иногда помогают, иногда – нет. От тли и паутинного клеща – чаще нет. К средствам на основе мыла более восприимчивы [насекомые с маленьким мягким телом](Because of this potential cause and effect, only certain insects are susceptible; small, soft-bodied insects are those most likely to be controlled.). Если не помогает, попробуйте [спреи на основе пиретринов](#heading-pyrethrinen-sprays).
 
 Ключевые слова в составе: **koolzaadolie**, **kaliumzouten van vetzuren**.
 
 ### Примеры конкретных средств
 
 - [Bio Tegen Insecten Polysect GYO Spray](https://www.pokon.nl/producten/item/pokon-tegen-insecten-spray-bio-800ml/) (и его [концентрат](https://www.pokon.nl/producten/item/pokon-tegen-insecten-concentraat-bio-200ml/))
+
+#### Интересный факт
+{: .no_toc }
+
+Не вполне понятно, как средства на основе мыла убивают или не убивают насекомых: [1](https://extension.umn.edu/yard-and-garden-news/coming-clean-soap-garden#:~:text=We%20still%20don%E2%80%99t%20understand%20exactly%20how%20soap%20kills%20(or%20doesn%E2%80%99t%20kill)%20an%20insect.%20The%20working%20theory%20is%20that%20the%20soap%20washes%20off%20a%20protective%20coating%20on%20the%20insect%27s%20body%2C%20causing%20it%20to%20dry%20out.%C2%A0), [2](https://extension.colostate.edu/topic-areas/insects/insect-control-soaps-and-detergents-5-547/#:~:text=How%20soaps%20and%20detergents%20kill%20insects%20is%20still%20poorly%20understood.%20In%20most%20cases%2C%20control%20results%20from%20disruption%20of%20the%20cell%20membranes%20of%20the%20insect.%20Soaps%20and%20detergents%20may%20also%20remove%20the%20protective%20waxes%20that%20cover%20the%20insect%2C%20causing%20death%20through%20excess%20loss%20of%20water.). 
 
 ## Средства с системным действием
 
