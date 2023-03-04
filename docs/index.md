@@ -12,7 +12,7 @@ hide:
 [Список растений :material-google-spreadsheet:](https://docs.google.com/spreadsheets/d/1Kb5VpLNyeKjFGBcfFL9tN5z-cKTSS4mMP1GA9QjMOzY/edit?usp=sharing){ .md-button }
 [Написать в чат :fontawesome-brands-telegram:](https://t.me/gardening_benelux){ .md-button }
 
-??? warning "Отказ от ответственности"
+!!! warning "Отказ от ответственности"
 
     Разумеется, вся информация представлена исключительно в образовательных целях. Вы сами несете ответственность за любой результат.
     

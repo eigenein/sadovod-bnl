@@ -6,7 +6,7 @@ hide:
 
 # Полезные приложения
 
-## Android
+## :material-android: Android
 
 ### Распознавание растений
 
@@ -21,7 +21,7 @@ hide:
 
 - [BirdNET](https://play.google.com/store/apps/details?id=de.tu_chemnitz.mi.kahst.birdnet) (по звукам) ⭐️ 4.6
 
-## iOS
+## :fontawesome-brands-app-store-ios: iOS
 
 ### Распознавание растений
 

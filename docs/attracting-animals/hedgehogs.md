@@ -4,7 +4,9 @@ comments: true
 
 # Ежи
 
-**[Ежам нельзя молоко](https://www.egelbescherming.nl/de-egel/egels-in-uw-tuin/), они не переносят лактозу.**
+!!! danger "Ежам нельзя молоко"
+
+    Они [не переносят](https://www.egelbescherming.nl/de-egel/egels-in-uw-tuin/) лактозу.
 
 - Обеспечьте им вход размером 13х13 см в ваш сад.
 - Можно подкормить их специальным кормом: [Vivara](https://www.vivara.nl/premium-egelvoer), [Natuurmonumenten](https://www.natuurmonumentenshop.nl/egelvoer-750-gram).
@@ -12,7 +14,7 @@ comments: true
 - Оставьте в саду тарелку с водой – они часто пьют.
 - Можно поставить домик (если есть место, они довольно большие).
 
-Разное:
+## Разное
 
 - Хотя бешенства в Нидерландах нет, трогать ежей голыми руками не рекомендуется.
 - Летом они могут громко пыхтеть – это нормально.

@@ -5,6 +5,7 @@ site_name: SadovodBNL
 nav:
   - index.md
   - Уход за растениями:
+      - plant-care/fertilizers.md
       - Борьба с вредителями:
           - plant-care/pest-control/insects.md
           - plant-care/pest-control/snails.md
@@ -66,6 +67,8 @@ plugins:
 markdown_extensions:
   - admonition
   - attr_list
+  - footnotes
+  - pymdownx.caret
   - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
@@ -73,6 +76,8 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
+  - pymdownx.mark
+  - pymdownx.smartsymbols
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tabbed:
@@ -88,6 +93,9 @@ extra:
     - icon: fontawesome/brands/telegram
       link: https://t.me/gardening_benelux
       name: Чат в Telegram
+    - icon: material/google-spreadsheet
+      link: https://docs.google.com/spreadsheets/d/1Kb5VpLNyeKjFGBcfFL9tN5z-cKTSS4mMP1GA9QjMOzY/edit?usp=sharing
+      name: Список растений
   analytics:
     provider: google
     property: G-GKFKT99WR6
