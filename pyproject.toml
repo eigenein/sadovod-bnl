@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "sadovod-bnl"
+version = "1.0.0"
+description = ""
+authors = ["Pavel Perestoronin <eigenein@gmail.com>"]
+license = "CC-BY-NC-ND-4.0"
+readme = "README.md"
+packages = [{include = "sadovod_bnl"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mkdocs-material = "^9.1.0"
+Pillow = "^9.4.0"
+CairoSVG = "^2.6.0"
+mkdocs-git-revision-date-localized-plugin = "^1.2.0"
+mkdocs-autorefs = "^0.4.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

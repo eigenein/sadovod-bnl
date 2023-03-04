@@ -1,0 +1,61 @@
+name: Docs
+
+on:
+  push:
+    branches:
+      - master
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    name: "Build"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "🗃 Cache"
+        if: success() || failure()
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cache
+            .cache
+          key: ${{ runner.os }}-${{ matrix.python-version }}-check
+
+      - uses: actions/checkout@v3
+        name: "📥 Checkout"
+
+      - name: "✨ Install Poetry"
+        run: pipx install poetry
+
+      - uses: actions/setup-python@v4
+        name: "✨ Set up Python"
+        id: "setup-python"
+        with:
+          python-version: 3.11
+          cache: poetry
+
+      - name: "📥 Install Material for MkDocs"
+        run: poetry install
+
+      - run: ".venv/bin/mkdocs build --site-dir _site"
+        name: "📦 Build"
+
+      - name: "📤 Upload"
+        uses: actions/upload-pages-artifact@v1
+
+  deploy:
+    name: "Deploy"
+    runs-on: ubuntu-latest
+    needs: "build"
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: "✨ Deploy"
+        uses: actions/deploy-pages@v1

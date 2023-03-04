@@ -1,0 +1,100 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: SadovodBNL
+
+nav:
+  - index.md
+  - Уход за растениями:
+      - Борьба с вредителями:
+          - plant-care/pest-control/insects.md
+          - plant-care/pest-control/snails.md
+          - plant-care/pest-control/ants.md
+          - plant-care/pest-control/flies.md
+          - plant-care/pest-control/house-spiders.md
+  - Привлечение животных:
+      - attracting-animals/birds.md
+      - attracting-animals/hedgehogs.md
+  - apps.md
+  - contributing.md
+  - sponsoring.md
+
+theme:
+  favicon: "images/favicon.ico"
+  icon:
+    repo: "material/github"
+    logo: "material/leaf"
+  name: material
+  language: ru
+  custom_dir: overrides
+  features:
+    - content.action.edit
+    - content.code.annotate
+    - content.code.copy
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: green
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: false
+  - search:
+      lang: ru
+  - social
+  - autorefs
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: true
+
+repo_url: https://github.com/eigenein/sadovod-bnl
+
+extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/gardening_benelux
+      name: Чат в Telegram
+  analytics:
+    provider: google
+    property: G-GKFKT99WR6
+
+copyright: Copyright &copy; 2011-2023 SadovodBNL (CC BY-NC-ND 4.0)
+
+site_url: "https://sadovod.nl"
+
+watch:
+  - "docs"
+  - "overrides"
