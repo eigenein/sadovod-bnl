@@ -37,6 +37,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - navigation.tracking
+    - search.highlight
     - search.suggest
   palette:
     - media: "(prefers-color-scheme: light)"

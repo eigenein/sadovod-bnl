@@ -39,8 +39,8 @@ jobs:
           python-version: 3.11
           cache: poetry
 
-      - name: "📥 Install Material for MkDocs"
-        run: poetry install
+      - name: "📥 Install the dependencies"
+        run: poetry install --no-root
 
       - run: ".venv/bin/mkdocs build --site-dir _site"
         name: "📦 Build"
