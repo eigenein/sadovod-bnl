@@ -114,6 +114,7 @@ extra:
 copyright: Copyright &copy; 2011-2023 SadovodBNL (CC BY-NC-ND 4.0)
 
 site_url: "https://sadovod.nl"
+edit_uri: edit/main/docs/
 
 watch:
   - "docs"
