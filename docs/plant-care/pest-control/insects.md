@@ -37,7 +37,7 @@ tags:
 
 - [Bio Tegen Hardnekkige Insecten polysect spray](https://www.pokon.nl/producten/item/pokon-tegen-hardnekkige-insecten-polysect-spray-bio/)
 - [ECOstyle Promanal-R](https://ecostyle.nl/product/promanal-r-gebruiksklaar-500-ml?size=500-ml)
-- [ECOstyle Ongedierte & wespenspray](https://www.ecostyle.nl/c/problemen-en-plagen/ongedierte-wespenspray) – для домашнего использования против чешуйниц и прочей радости. Если не боитесь пауков, то постарайтесь не распылять на них и на паутину. [Пауки в этой войне – ваши союзники](#heading-house-spiders).
+- [ECOstyle Ongedierte & wespenspray](https://www.ecostyle.nl/c/problemen-en-plagen/ongedierte-wespenspray) – для домашнего использования против чешуйниц и прочей радости. Если не боитесь пауков, то постарайтесь не распылять на них и на паутину. [Пауки в этой войне – ваши союзники](/plant-care/pest-control/house-spiders).
 
 Эти средства также существуют в виде **концентратов** (получится дешевле в расчете на литр):
 
