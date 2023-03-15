@@ -10,7 +10,7 @@ hide:
 
 - Создать [pull request на GitHub](https://github.com/eigenein/sadovod-bnl/pulls)
 - [Открыть обсуждение на GitHub](https://github.com/eigenein/sadovod-bnl/discussions)
-- Написать комментарий под этой страницей
+- Написать [@eigenein](https://t.me/eigenein)
 
 ## Источники
 
