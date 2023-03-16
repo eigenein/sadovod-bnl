@@ -32,7 +32,6 @@ theme:
       solutions: "material/spray"
   name: material
   language: ru
-  custom_dir: overrides
   features:
     - content.action.edit
     - content.code.annotate
@@ -119,4 +118,3 @@ edit_uri: edit/main/docs/
 
 watch:
   - "docs"
-  - "overrides"
