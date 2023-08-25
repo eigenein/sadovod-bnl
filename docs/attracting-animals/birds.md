@@ -1,5 +1,4 @@
 ---
-comments: true
 tags:
     - Птицы
     - Насекомые

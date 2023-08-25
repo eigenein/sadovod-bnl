@@ -5,7 +5,6 @@ description = ""
 authors = ["Pavel Perestoronin <eigenein@gmail.com>"]
 license = "CC-BY-NC-ND-4.0"
 readme = "README.md"
-packages = [{include = "sadovod_bnl"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"

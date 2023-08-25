@@ -18,13 +18,13 @@ nav:
       - attracting-animals/hedgehogs.md
   - apps.md
   - contributing.md
-  - sponsoring.md
+  - sponsor.md
 
 theme:
-  favicon: "images/favicon.ico"
+  favicon: "images/favicon.ico" # https://icon.kitchen/i/H4sIAAAAAAAAAyWOvQ7CMAyE38WsGYoES9eKHQk2xOAkThqR1iU%2FZaj67jiw2KfP1t1tsGKslKHfwGJ63UeaCPqSKilwfohhwVTaNZMssOSwxgIKguFZABmGXYH2A0dOAg4ng%2B7cyYf2txEXcYP8riGZSAKdv6K1YfbNs%2FAC%2FbFTkIIfxb5JzaXw9NeR3I9KgPMX58gUaQoUacVCLXdiW2Or%2FwCcbeJgWzXOMj%2Bk4bl%2FAefJD0PhAAAA
+  logo: "images/icon-512.png"
   icon:
     repo: "material/github"
-    logo: "material/leaf"
     tag:
       insects: "material/bug"
       birds: "material/bird"
@@ -111,7 +111,7 @@ extra:
     Коты: cats
     Средства: solutions
 
-copyright: Copyright &copy; 2011-2023 SadovodBNL (CC BY-NC-ND 4.0)
+copyright: Copyright &copy; 2021-2023 SadovodBNL (CC BY-NC-ND 4.0)
 
 site_url: "https://sadovod.nl"
 edit_uri: edit/main/docs/

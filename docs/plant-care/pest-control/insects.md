@@ -1,5 +1,4 @@
 ---
-comments: true
 tags:
     - Насекомые
     - Средства
@@ -37,7 +36,7 @@ tags:
 
 - [Bio Tegen Hardnekkige Insecten polysect spray](https://www.pokon.nl/producten/item/pokon-tegen-hardnekkige-insecten-polysect-spray-bio/)
 - [ECOstyle Promanal-R](https://ecostyle.nl/product/promanal-r-gebruiksklaar-500-ml?size=500-ml)
-- [ECOstyle Ongedierte & wespenspray](https://www.ecostyle.nl/c/problemen-en-plagen/ongedierte-wespenspray) – для домашнего использования против чешуйниц и прочей радости. Если не боитесь пауков, то постарайтесь не распылять на них и на паутину. [Пауки в этой войне – ваши союзники](/plant-care/pest-control/house-spiders).
+- [ECOstyle Ongedierte & wespenspray](https://www.ecostyle.nl/c/problemen-en-plagen/ongedierte-wespenspray) – для домашнего использования против чешуйниц и прочей радости. Если не боитесь пауков, то постарайтесь не распылять на них и на паутину. [Пауки в этой войне – ваши союзники](house-spiders.md).
 
 Эти средства также существуют в виде **концентратов** (получится дешевле в расчете на литр):
 
@@ -50,7 +49,7 @@ tags:
 
 !!! tip "Тля на уличных растениях"
 
-    Проверьте, не таскают ли её муравьи, и тогда – [боритесь еще и с ними](/plant-care/pest-control/ants).
+    Проверьте, не таскают ли её муравьи, и тогда – [боритесь еще и с ними](ants.md).
 
 !!! tip "Не забывайте про повторную обработку"
 
@@ -106,4 +105,4 @@ tags:
 - **Воробьи** [поедают тлю](https://www.horta.org/nl/tips-and-tricks/tuinvogels-helpen-je-insecten-te-bestrijden) и кормят ей своих птенцов
 - **Большие синицы** и **[лазоревки](https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B0%D0%B7%D0%BE%D1%80%D0%B5%D0%B2%D0%BA%D0%B0)** [специализируются на гусеницах](https://www.vogelbescherming.nl/beleefdelente/blog/lezen/rupsje-nooitgenoeg) и серьезно [уменьшают необходимость в химических средствах](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1784073/)
 
-Смотрите [отдельный раздел](/attracting-animals/birds) про привлечение.
+Смотрите [отдельный раздел](../../attracting-animals/birds.md) про привлечение.
