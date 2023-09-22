@@ -28,7 +28,7 @@ jobs:
             .cache
           key: ${{ runner.os }}-${{ matrix.python-version }}-check
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         name: "📥 Checkout"
 
       - name: "✨ Install Poetry"
