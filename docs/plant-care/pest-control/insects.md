@@ -87,6 +87,7 @@ tags:
 ### Примеры конкретных средств
 
 - [Bayer Lizetan Insectenpin](https://www.bol.com/nl/nl/p/bayer-lizetan-insectenpin-1st/9200000066373089/). Действующее вещество: [диметоат](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BC%D0%B5%D1%82%D0%BE%D0%B0%D1%82).
+- [Protect Garden Sanium Stick](https://www.bol.com/nl/nl/p/protect-garden-sanium-stick-20-stuks-insecten-bestrijdingsmiddel-voor-kamer-en-kuipplanten-binnen/9200000132151597/?bltgh=omkOCTN2LaPETrIy-CRA7A.2_44.45.ProductImage). Действующее вещество: [flupyradifurone](https://en.wikipedia.org/wiki/Flupyradifurone). **Нет независимых исследований эффективности – только [от самого производителя](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4657471/).**
 
 ## Личинки божьих коровок против тли
 
