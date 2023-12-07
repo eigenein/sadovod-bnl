@@ -26,7 +26,6 @@ jobs:
           path: |
             ~/.cache
             .cache
-          key: ${{ runner.os }}-${{ matrix.python-version }}-check
 
       - uses: actions/checkout@v4
         name: "📥 Checkout"
