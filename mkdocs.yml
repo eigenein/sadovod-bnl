@@ -47,20 +47,24 @@ theme:
     - search.highlight
     - search.suggest
   palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Системная тема
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: green
       accent: green
       toggle:
         icon: material/brightness-7
-        name: Switch to dark mode
+        name: Темная тема
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: green
       accent: green
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Светлая тема
 
 plugins:
   - git-revision-date-localized:
@@ -70,6 +74,9 @@ plugins:
   - social
   - autorefs
   - tags
+  - git-committers:
+      repository: eigenein/sadovod-bnl
+      branch: main
 
 markdown_extensions:
   - admonition
@@ -78,8 +85,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
