@@ -2,12 +2,10 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "commitMessagePrefix": "⬆️",
   "extends": [
-    "group:allNonMajor"
+    "group:allNonMajor",
+    "schedule:monthly"
   ],
   "timezone": "Europe/Amsterdam",
-  "schedule": [
-    "after 11am every friday"
-  ],
   "labels": [
     "enhancement"
   ],
