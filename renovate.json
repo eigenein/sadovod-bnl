@@ -14,7 +14,7 @@
       "matchPackagePatterns": [
         "python"
       ],
-      "rangeStrategy": "replace"
+      "rangeStrategy": "bump"
     },
     {
       "matchPackagePatterns": [
