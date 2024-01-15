@@ -10,7 +10,6 @@ hide:
 
 === ":fontawesome-brands-telegram: eigenein"
 
-    - [iDEAL, Mastercard & Visa](https://bunq.me/eigenein)
     - [PayPal](https://paypal.me/eigenein)
     - [Revolut](https://revolut.me/eigenein)
 
