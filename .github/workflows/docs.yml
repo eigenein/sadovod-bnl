@@ -23,6 +23,7 @@ jobs:
         if: success() || failure()
         uses: actions/cache@v4
         with:
+          key: cache
           path: |
             ~/.cache
             .cache
