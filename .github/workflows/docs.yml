@@ -40,7 +40,7 @@ jobs:
         name: "✨ Set up Python"
         id: "setup-python"
         with:
-          python-version: 3.12
+          python-version: 3.12.2
           cache: poetry
 
       - name: "📥 Install the dependencies"
