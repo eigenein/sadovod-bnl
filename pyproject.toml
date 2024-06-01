@@ -4,6 +4,7 @@ version = "1.0.0"
 description = ""
 authors = ["Pavel Perestoronin <eigenein@gmail.com>"]
 license = "CC-BY-NC-ND-4.0"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "3.12.3"
